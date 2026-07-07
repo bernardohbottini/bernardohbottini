@@ -14,7 +14,7 @@ I'm **Bernardo Bottini**, a Control & Automation Engineering student passionate 
 - 🐧 Linux
 - ⚡ CUDA
 
-## 💻 Tech Stack
+## 💻 Software & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,linux,git,docker,vscode" />
