@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Bernardo Bottini**, a Control & Automation Engineering student passionate about Robotics, Computer Vision and Embedded AI.
+I'm Bernardo Bottini, a Control & Automation Engineering student focused on Robotics, Computer Vision and Embedded AI.
 
 ## 🚀 About Me
 
